@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Overview}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Why the prices of two processors differs?}{3}{subsection.1.1}%
+\contentsline {section}{\numberline {2}Digital Design}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Abstraction}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}The Digital Abstraction}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Digital Discipline: Binary Values}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Decimal to Binary Conversion}{5}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Signed Binary Numbers}{5}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Sign/Magnitude Numbers}{5}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}Two's Complement Numbers}{6}{subsubsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.6}Logic Gates}{6}{subsection.2.6}%
