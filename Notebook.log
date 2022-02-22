@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.9.24)  28 JAN 2022 17:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.9.24)  22 FEB 2022 17:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -305,44 +305,276 @@ LaTeX Info: Redefining \nameref on input line 42.
 \c@lstlisting=\count294
  [1
 
-{e:/Environment/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Notebook.toc)
+{e:/Environment/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Notebook.toc [2])
 \tf@toc=\write4
 \openout4 = `Notebook.toc'.
 
- [2]
-<./Pics//ProcessorOverview.png, id=72, 1755.55875pt x 1190.4475pt>
+ [3]
+<./Pics//ProcessorOverview.png, id=353, 1755.55875pt x 1190.4475pt>
 File: ./Pics//ProcessorOverview.png Graphic file (type png)
 <use ./Pics//ProcessorOverview.png>
 Package pdftex.def Info: ./Pics//ProcessorOverview.png  used on input line 52.
 (pdftex.def)             Requested size: 390.0pt x 264.46048pt.
-<./Pics//Abstraction.png, id=74, 700.6175pt x 1000.73875pt>
+<./Pics//Abstraction.png, id=355, 700.6175pt x 1000.73875pt>
 File: ./Pics//Abstraction.png Graphic file (type png)
 <use ./Pics//Abstraction.png>
 Package pdftex.def Info: ./Pics//Abstraction.png  used on input line 61.
 (pdftex.def)             Requested size: 234.00238pt x 334.23029pt.
- [3 <./Pics//ProcessorOverview.png>] [4 <./Pics//Abstraction.png>]
-<./Pics//DecimalToBinary.png, id=88, 918.43124pt x 372.39125pt>
+ [4 <./Pics//ProcessorOverview.png>] [5 <./Pics//Abstraction.png>]
+<./Pics//DecimalToBinary.png, id=369, 918.43124pt x 372.39125pt>
 File: ./Pics//DecimalToBinary.png Graphic file (type png)
 <use ./Pics//DecimalToBinary.png>
 Package pdftex.def Info: ./Pics//DecimalToBinary.png  used on input line 83.
 (pdftex.def)             Requested size: 390.0pt x 158.13065pt.
- [5 <./Pics//DecimalToBinary.png>] [6] (./Notebook.aux)
+ [6 <./Pics//DecimalToBinary.png>]
+<./Pics//NoiseMargins.png, id=375, 765.86125pt x 425.59pt>
+File: ./Pics//NoiseMargins.png Graphic file (type png)
+<use ./Pics//NoiseMargins.png>
+Package pdftex.def Info: ./Pics//NoiseMargins.png  used on input line 109.
+(pdftex.def)             Requested size: 390.0pt x 216.72331pt.
+ [7]
+<./Pics//TransferCharacteristics.png, id=381, 897.3525pt x 511.9125pt>
+File: ./Pics//TransferCharacteristics.png Graphic file (type png)
+<use ./Pics//TransferCharacteristics.png>
+Package pdftex.def Info: ./Pics//TransferCharacteristics.png  used on input line 115.
+(pdftex.def)             Requested size: 390.0pt x 222.47705pt.
+ [8 <./Pics//NoiseMargins.png> <./Pics//TransferCharacteristics.png>]
+<./Pics//Transistor.png, id=391, 410.53375pt x 327.2225pt>
+File: ./Pics//Transistor.png Graphic file (type png)
+<use ./Pics//Transistor.png>
+Package pdftex.def Info: ./Pics//Transistor.png  used on input line 122.
+(pdftex.def)             Requested size: 390.0pt x 310.85461pt.
+<./Pics//nMOS.png, id=392, 872.25874pt x 506.89375pt>
+File: ./Pics//nMOS.png Graphic file (type png)
+<use ./Pics//nMOS.png>
+Package pdftex.def Info: ./Pics//nMOS.png  used on input line 124.
+(pdftex.def)             Requested size: 390.0pt x 226.63824pt.
+ [9 <./Pics//Transistor.png>]
+<./Pics//pMOS.png, id=398, 821.0675pt x 511.9125pt>
+File: ./Pics//pMOS.png Graphic file (type png)
+<use ./Pics//pMOS.png>
+Package pdftex.def Info: ./Pics//pMOS.png  used on input line 126.
+(pdftex.def)             Requested size: 390.0pt x 243.15315pt.
+ [10 <./Pics//nMOS.png> <./Pics//pMOS.png>]
+<./Pics//TransistorFunction.png, id=405, 447.6725pt x 388.45125pt>
+File: ./Pics//TransistorFunction.png Graphic file (type png)
+<use ./Pics//TransistorFunction.png>
+Package pdftex.def Info: ./Pics//TransistorFunction.png  used on input line 132.
+(pdftex.def)             Requested size: 390.0pt x 338.4181pt.
+<./Pics//cMosNANDGate.png, id=406, 931.48pt x 709.65125pt>
+File: ./Pics//cMosNANDGate.png Graphic file (type png)
+<use ./Pics//cMosNANDGate.png>
+Package pdftex.def Info: ./Pics//cMosNANDGate.png  used on input line 134.
+(pdftex.def)             Requested size: 390.0pt x 297.12024pt.
+ [11 <./Pics//TransistorFunction.png>]
+<./Pics//Pseudo-nMos.png, id=412, 529.98pt x 399.4925pt>
+File: ./Pics//Pseudo-nMos.png Graphic file (type png)
+<use ./Pics//Pseudo-nMos.png>
+Package pdftex.def Info: ./Pics//Pseudo-nMos.png  used on input line 140.
+(pdftex.def)             Requested size: 390.0pt x 293.98006pt.
+ [12 <./Pics//cMosNANDGate.png>] [13 <./Pics//Pseudo-nMos.png>]
+<./Pics//SomeDefinitions.png, id=425, 991.705pt x 592.2125pt>
+File: ./Pics//SomeDefinitions.png Graphic file (type png)
+<use ./Pics//SomeDefinitions.png>
+Package pdftex.def Info: ./Pics//SomeDefinitions.png  used on input line 175.
+(pdftex.def)             Requested size: 390.0pt x 232.89574pt.
+ [14]
+<./Pics//SOPForm.png, id=430, 579.16376pt x 283.0575pt>
+File: ./Pics//SOPForm.png Graphic file (type png)
+<use ./Pics//SOPForm.png>
+Package pdftex.def Info: ./Pics//SOPForm.png  used on input line 180.
+(pdftex.def)             Requested size: 390.0pt x 190.60637pt.
+ [15 <./Pics//SomeDefinitions.png> <./Pics//SOPForm.png>]
+<./Pics//POSForm.png, id=437, 616.3025pt x 282.05376pt>
+File: ./Pics//POSForm.png Graphic file (type png)
+<use ./Pics//POSForm.png>
+Package pdftex.def Info: ./Pics//POSForm.png  used on input line 185.
+(pdftex.def)             Requested size: 390.0pt x 178.491pt.
+<./Pics//SOP&POS.png, id=438, 1156.32pt x 665.48625pt>
+File: ./Pics//SOP&POS.png Graphic file (type png)
+<use ./Pics//SOP&POS.png>
+Package pdftex.def Info: ./Pics//SOP&POS.png  used on input line 187.
+(pdftex.def)             Requested size: 390.0pt x 224.44467pt.
+<./Pics//Axioms.png, id=439, 1248.665pt x 632.3625pt>
+File: ./Pics//Axioms.png Graphic file (type png)
+<use ./Pics//Axioms.png>
+Package pdftex.def Info: ./Pics//Axioms.png  used on input line 190.
+(pdftex.def)             Requested size: 390.0pt x 197.50665pt.
+ [16 <./Pics//POSForm.png> <./Pics//SOP&POS.png>]
+<./Pics//BooleanTheorems.png, id=446, 1111.15125pt x 566.115pt>
+File: ./Pics//BooleanTheorems.png Graphic file (type png)
+<use ./Pics//BooleanTheorems.png>
+Package pdftex.def Info: ./Pics//BooleanTheorems.png  used on input line 192.
+(pdftex.def)             Requested size: 390.0pt x 198.69606pt.
+<./Pics//Simplification.png, id=447, 946.53625pt x 680.5425pt>
+File: ./Pics//Simplification.png Graphic file (type png)
+<use ./Pics//Simplification.png>
+Package pdftex.def Info: ./Pics//Simplification.png  used on input line 194.
+(pdftex.def)             Requested size: 390.0pt x 280.39494pt.
+ [17 <./Pics//Axioms.png> <./Pics//BooleanTheorems.png>]
+<./Pics//KMAPExample.png, id=454, 976.64874pt x 602.25pt>
+File: ./Pics//KMAPExample.png Graphic file (type png)
+<use ./Pics//KMAPExample.png>
+Package pdftex.def Info: ./Pics//KMAPExample.png  used on input line 198.
+(pdftex.def)             Requested size: 390.0pt x 240.49138pt.
+ [18 <./Pics//Simplification.png>]
+<./Pics//Mux.png, id=460, 460.72125pt x 467.7475pt>
+File: ./Pics//Mux.png Graphic file (type png)
+<use ./Pics//Mux.png>
+Package pdftex.def Info: ./Pics//Mux.png  used on input line 203.
+(pdftex.def)             Requested size: 390.0pt x 395.94566pt.
+ [19 <./Pics//KMAPExample.png>]
+<./Pics//LogicMux.png, id=467, 359.3425pt x 530.98375pt>
+File: ./Pics//LogicMux.png Graphic file (type png)
+<use ./Pics//LogicMux.png>
+Package pdftex.def Info: ./Pics//LogicMux.png  used on input line 207.
+(pdftex.def)             Requested size: 195.0pt x 288.15292pt.
+ [20 <./Pics//Mux.png>]
+<./Pics//Decoder.png, id=473, 1008.76875pt x 337.26pt>
+File: ./Pics//Decoder.png Graphic file (type png)
+<use ./Pics//Decoder.png>
+Package pdftex.def Info: ./Pics//Decoder.png  used on input line 211.
+(pdftex.def)             Requested size: 390.0pt x 130.38841pt.
+<./Pics//LogicDecoder.png, id=474, 521.95pt x 553.06625pt>
+File: ./Pics//LogicDecoder.png Graphic file (type png)
+<use ./Pics//LogicDecoder.png>
+Package pdftex.def Info: ./Pics//LogicDecoder.png  used on input line 215.
+(pdftex.def)             Requested size: 195.0pt x 206.62292pt.
+ [21 <./Pics//LogicMux.png> <./Pics//Decoder.png>]
+<./Pics//Delay.png, id=482, 572.1375pt x 517.935pt>
+File: ./Pics//Delay.png Graphic file (type png)
+<use ./Pics//Delay.png>
+Package pdftex.def Info: ./Pics//Delay.png  used on input line 222.
+(pdftex.def)             Requested size: 312.00119pt x 282.4468pt.
+ [22 <./Pics//LogicDecoder.png>]
+<./Pics//CriticalPath.png, id=488, 891.33pt x 662.475pt>
+File: ./Pics//CriticalPath.png Graphic file (type png)
+<use ./Pics//CriticalPath.png>
+Package pdftex.def Info: ./Pics//CriticalPath.png  used on input line 229.
+(pdftex.def)             Requested size: 312.00119pt x 231.88994pt.
+ [23 <./Pics//Delay.png>]
+<./Pics//Bistatble.png, id=494, 903.375pt x 336.25626pt>
+File: ./Pics//Bistatble.png Graphic file (type png)
+<use ./Pics//Bistatble.png>
+Package pdftex.def Info: ./Pics//Bistatble.png  used on input line 242.
+(pdftex.def)             Requested size: 312.00119pt x 116.1368pt.
+ [24 <./Pics//CriticalPath.png>]
+<./Pics//SRLatch.png, id=500, 409.53pt x 300.12125pt>
+File: ./Pics//SRLatch.png Graphic file (type png)
+<use ./Pics//SRLatch.png>
+Package pdftex.def Info: ./Pics//SRLatch.png  used on input line 251.
+(pdftex.def)             Requested size: 195.0pt x 142.9071pt.
+<./Pics//DLatch.png, id=501, 293.095pt x 405.515pt>
+File: ./Pics//DLatch.png Graphic file (type png)
+<use ./Pics//DLatch.png>
+Package pdftex.def Info: ./Pics//DLatch.png  used on input line 253.
+(pdftex.def)             Requested size: 195.0pt x 269.79402pt.
+ [25 <./Pics//Bistatble.png> <./Pics//SRLatch.png>]
+<./Pics//DFlipFlop.png, id=509, 546.04pt x 397.485pt>
+File: ./Pics//DFlipFlop.png Graphic file (type png)
+<use ./Pics//DFlipFlop.png>
+Package pdftex.def Info: ./Pics//DFlipFlop.png  used on input line 260.
+(pdftex.def)             Requested size: 195.0pt x 141.94818pt.
+ [26 <./Pics//DLatch.png> <./Pics//DFlipFlop.png>]
+<./Pics//InputTimeConstraint.png, id=516, 645.41125pt x 395.4775pt>
+File: ./Pics//InputTimeConstraint.png Graphic file (type png)
+<use ./Pics//InputTimeConstraint.png>
+Package pdftex.def Info: ./Pics//InputTimeConstraint.png  used on input line 269.
+(pdftex.def)             Requested size: 195.0pt x 119.48296pt.
+<./Pics//OutputTimeConstraint.png, id=517, 522.95375pt x 304.13625pt>
+File: ./Pics//OutputTimeConstraint.png Graphic file (type png)
+<use ./Pics//OutputTimeConstraint.png>
+Package pdftex.def Info: ./Pics//OutputTimeConstraint.png  used on input line 275.
+(pdftex.def)             Requested size: 195.0pt x 113.40575pt.
+<./Pics//ConstraintA.png, id=518, 438.63875pt x 342.27875pt>
+File: ./Pics//ConstraintA.png Graphic file (type png)
+<use ./Pics//ConstraintA.png>
+Package pdftex.def Info: ./Pics//ConstraintA.png  used on input line 283.
+(pdftex.def)             Requested size: 195.0pt x 152.1647pt.
+ [27 <./Pics//InputTimeConstraint.png> <./Pics//OutputTimeConstraint.png>]
+<./Pics//ConstraintB.png, id=525, 397.485pt x 350.30875pt>
+File: ./Pics//ConstraintB.png Graphic file (type png)
+<use ./Pics//ConstraintB.png>
+Package pdftex.def Info: ./Pics//ConstraintB.png  used on input line 291.
+(pdftex.def)             Requested size: 195.0pt x 171.86125pt.
+ [28 <./Pics//ConstraintA.png> <./Pics//ConstraintB.png>]
+<./Pics//ClockSkew.png, id=532, 391.4625pt x 294.09875pt>
+File: ./Pics//ClockSkew.png Graphic file (type png)
+<use ./Pics//ClockSkew.png>
+Package pdftex.def Info: ./Pics//ClockSkew.png  used on input line 297.
+(pdftex.def)             Requested size: 195.0pt x 146.50153pt.
+<./Pics//ConstraintC.png, id=533, 487.8225pt x 456.70625pt>
+File: ./Pics//ConstraintC.png Graphic file (type png)
+<use ./Pics//ConstraintC.png>
+Package pdftex.def Info: ./Pics//ConstraintC.png  used on input line 304.
+(pdftex.def)             Requested size: 195.0pt x 182.56079pt.
+ [29 <./Pics//ClockSkew.png> <./Pics//ConstraintC.png>]
+<./Pics//ConstraintD.png, id=540, 470.75874pt x 477.785pt>
+File: ./Pics//ConstraintD.png Graphic file (type png)
+<use ./Pics//ConstraintD.png>
+Package pdftex.def Info: ./Pics//ConstraintD.png  used on input line 311.
+(pdftex.def)             Requested size: 195.0pt x 197.91255pt.
+<./Pics//SimpleProcessorPipeline.png, id=541, 833.1125pt x 402.50375pt>
+File: ./Pics//SimpleProcessorPipeline.png Graphic file (type png)
+<use ./Pics//SimpleProcessorPipeline.png>
+Package pdftex.def Info: ./Pics//SimpleProcessorPipeline.png  used on input line 315.
+(pdftex.def)             Requested size: 312.00119pt x 150.73586pt.
+ [30 <./Pics//ConstraintD.png> <./Pics//SimpleProcessorPipeline.png>]
+<./Pics//StucturalHazard1.png, id=548, 1073.00874pt x 711.65875pt>
+File: ./Pics//StucturalHazard1.png Graphic file (type png)
+<use ./Pics//StucturalHazard1.png>
+Package pdftex.def Info: ./Pics//StucturalHazard1.png  used on input line 331.
+(pdftex.def)             Requested size: 312.00119pt x 206.92957pt.
+<./Pics//DataHazard.png, id=549, 602.25pt x 249.93375pt>
+File: ./Pics//DataHazard.png Graphic file (type png)
+<use ./Pics//DataHazard.png>
+Package pdftex.def Info: ./Pics//DataHazard.png  used on input line 333.
+(pdftex.def)             Requested size: 195.0pt x 80.92622pt.
+ [31 <./Pics//StucturalHazard1.png>]
+<./Pics//StucturalHazard2.png, id=556, 1195.46625pt x 713.66624pt>
+File: ./Pics//StucturalHazard2.png Graphic file (type png)
+<use ./Pics//StucturalHazard2.png>
+Package pdftex.def Info: ./Pics//StucturalHazard2.png  used on input line 338.
+(pdftex.def)             Requested size: 312.00119pt x 186.25667pt.
+<./Pics//ControlHazard.png, id=557, 429.605pt x 298.11375pt>
+File: ./Pics//ControlHazard.png Graphic file (type png)
+<use ./Pics//ControlHazard.png>
+Package pdftex.def Info: ./Pics//ControlHazard.png  used on input line 340.
+(pdftex.def)             Requested size: 195.0pt x 135.31445pt.
+ [32 <./Pics//DataHazard.png> <./Pics//StucturalHazard2.png> <./Pics//ControlHazard.png>]
+<./Pics//Out-of-orderPipelnine.png, id=565, 979.66pt x 559.08875pt>
+File: ./Pics//Out-of-orderPipelnine.png Graphic file (type png)
+<use ./Pics//Out-of-orderPipelnine.png>
+Package pdftex.def Info: ./Pics//Out-of-orderPipelnine.png  used on input line 353.
+(pdftex.def)             Requested size: 390.0pt x 222.56516pt.
+<./Pics//MemoryWall.png, id=566, 870.25125pt x 473.77pt>
+File: ./Pics//MemoryWall.png Graphic file (type png)
+<use ./Pics//MemoryWall.png>
+Package pdftex.def Info: ./Pics//MemoryWall.png  used on input line 360.
+(pdftex.def)             Requested size: 312.00119pt x 169.85583pt.
+ [33 <./Pics//Out-of-orderPipelnine.png>]
+<./Pics//MemoryHierarchy.png, id=572, 1001.7425pt x 574.145pt>
+File: ./Pics//MemoryHierarchy.png Graphic file (type png)
+<use ./Pics//MemoryHierarchy.png>
+Package pdftex.def Info: ./Pics//MemoryHierarchy.png  used on input line 366.
+(pdftex.def)             Requested size: 312.00119pt x 178.82414pt.
+ [34 <./Pics//MemoryWall.png> <./Pics//MemoryHierarchy.png>] (./Notebook.aux)
 Package rerunfilecheck Info: File `Notebook.out' has not changed.
-(rerunfilecheck)             Checksum: D679795E9F4A87691928DBE5A0FB2094;1864.
+(rerunfilecheck)             Checksum: C6CDA4040CF18D34B6C6D24A7837BFDE;9908.
  ) 
 Here is how much of TeX's memory you used:
- 9998 strings out of 478599
- 148599 string characters out of 5852089
- 634540 words of memory out of 5000000
- 27731 multiletter control sequences out of 15000+600000
+ 10464 strings out of 478599
+ 159605 string characters out of 5852089
+ 644540 words of memory out of 5000000
+ 28073 multiletter control sequences out of 15000+600000
  410060 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,6n,66p,383b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
-{e:/Environment/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<e:/Environment/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><e:/Environment/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><e:/Environment/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><e:/Environment/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on Notebook.pdf (6 pages, 834168 bytes).
+{e:/Environment/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<e:/Environment/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><e:/Environment/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><e:/Environment/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><e:/Environment/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><e:/Environment/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><e:/Environment/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><e:/Environment/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><e:/Environment/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on Notebook.pdf (34 pages, 2259889 bytes).
 PDF statistics:
- 125 PDF objects out of 1000 (max. 8388607)
- 101 compressed objects within 2 object streams
- 21 named destinations out of 1000 (max. 500000)
- 104 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 640 PDF objects out of 1000 (max. 8388607)
+ 495 compressed objects within 5 object streams
+ 104 named destinations out of 1000 (max. 500000)
+ 749 words of extra memory for PDF output out of 10000 (max. 10000000)
 
